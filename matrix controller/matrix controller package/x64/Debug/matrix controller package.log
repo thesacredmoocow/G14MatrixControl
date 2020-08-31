@@ -1,0 +1,17 @@
+﻿  Building 'matrix controller package' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\MyDriver.inf
+  Stamping [Version] section with DriverVer=08/30/2020,2.41.0.200
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\5353i\source\repos\matrix controller\x64\Debug\matrix controller package\mydriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\5353i\source\repos\matrix controller\x64\Debug\matrix controller package\mydriver.cat
+  
